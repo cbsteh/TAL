@@ -1,0 +1,13 @@
+To use TAL 2.8 OPL/32, do the following:
+
+1) You *must* create a folder called "TAL" at drive C:, i.e., c:\TAL
+2) Copy all files: chart.mbm, tal.dat, tal.hlp, and tal.opo to TAL folder
+3) Run tal.opo directly to use TAL
+
+TAL program does not appear in the ExtraBars because I have yet to get the official UID codes from Symbian Corp. Once I get it I will release a TAL version that runs directly from the ExtraBars. Keep tuned! Any problems or suggestions, please contact me.
+
+
+C.B.S. Teh
+chris@agri.upm.edu.my
+16 Oct 2000
+
